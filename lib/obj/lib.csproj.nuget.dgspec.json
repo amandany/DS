@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\1REPOS\\lib\\lib\\lib.csproj": {}
+  },
+  "projects": {
+    "D:\\1REPOS\\lib\\lib\\lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1REPOS\\lib\\lib\\lib.csproj",
+        "projectName": "lib",
+        "projectPath": "D:\\1REPOS\\lib\\lib\\lib.csproj",
+        "packagesPath": "C:\\Users\\danam\\.nuget\\packages\\",
+        "outputPath": "D:\\1REPOS\\lib\\lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
